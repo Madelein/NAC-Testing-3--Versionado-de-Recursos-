@@ -1,0 +1,14 @@
+En el versionado se trata la relación entre sistemas de gestión de software, el lanzamiento de nuevas versiones
+o el desarrollo de funcionalidades específicas. 
+Los términos que se manejan dentro del versionaso son:
+● Trunk: que hace referencia a la rama actual de desarrollo, es decir, aquí se encuentran todas las
+funcionalidades que el equipo está desarrolando. En tecnologías como git el término habitual es "master".
+● Branch: rama específica de desarrollo independiente del trunk y por ello no se ve
+afectada por esos cambios, también cuando se corrige un error, o se trabaja con una
+versión temporal para dar lugar a una demo o alguna funcionalidad parcial
+○ Feature Branch: es un nombre que suele aplicarse a ramas que contienen
+exclusivamente modificaciones para agregar cierta función que podría agregar un
+alto grado de desorden en la rama principal.
+● Tag: cuando se lanza una versión nueva, aunque sea beta normalmente se usa el
+término etiqueta (en inglés "tag") y puede describir una versión específica, o un feature
+branch (función de una rama) particular que cumple con un requerimiento especial.
